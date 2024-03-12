@@ -25,9 +25,9 @@ Missing libraries can be installed using the pip install command.
 
 * How to run the code:
   
-  Clone the repository locally.
-  Make sure all dependencies are installed.
-  Run cells in Jupyter Notebook.
+1.Clone the repository locally.
+2.Make sure all dependencies are installed.
+3.Run cells in Jupyter Notebook.
 
 * File structure and description:
 
@@ -40,25 +40,25 @@ The dataset reviews_bsample.csv contains employee reviews of their employers col
 * Methodology:
 
 The following methods were used in this project:
-Text preprocessing: remove punctuation marks, stop words, etc.
-TF-IDF method: Vectorize text 
-NMF topic model: for classification.
-word cloud analysis: Visualize results.
-Use GPT for zero-shot learning.
-Use GPT for data augmentation.
-Cosine Similarity Calculation: measure thematic alignment between review 
-RandomForestRegressor and text analysis: predict employment length
+1.Text preprocessing: remove punctuation marks, stop words, etc.
+2.TF-IDF method: Vectorize text 
+3.NMF topic model: for classification.
+4.word cloud analysis: Visualize results.
+5.Use GPT for zero-shot learning.
+6.Use GPT for data augmentation.
+7.Cosine Similarity Calculation: measure thematic alignment between review 
+8.RandomForestRegressor and text analysis: predict employment length
 
 * Main findings and conclusions:
 
-Employees are most concerned about the management and working hours of their workplace;
-Companies with strong capabilities and development opportunities are more likely to be favored by employees;
-Salary issues are the source of dissatisfaction among most employees;
-Most employees want their employer to improve the company's overall strength and development opportunities;
-Engineers and sales pay more attention to work-life balance (WLB) issues
-Employees in the United Kingdom are more concerned about WLB issues;
-Sales, Finance and Engineers are more likely to make extreme comments about their jobs;
-The topics covered can be leveraged to predict the duration of employment and positively impact compensation rates and work-life balance.
+1.Employees are most concerned about the management and working hours of their workplace;
+2.Companies with strong capabilities and development opportunities are more likely to be favored by employees;
+3.Salary issues are the source of dissatisfaction among most employees;
+4.Most employees want their employer to improve the company's overall strength and development opportunities;
+5.Engineers and sales pay more attention to work-life balance (WLB) issues
+6.Employees in the United Kingdom are more concerned about WLB issues;
+7.Sales, Finance and Engineers are more likely to make extreme comments about their jobs;
+8.The topics covered can be leveraged to predict the duration of employment and positively impact compensation rates and work-life balance.
 
 
 
