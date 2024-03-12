@@ -1,8 +1,8 @@
 # ipen5810
 repository for ipen5810
 
+
 ////////////////////////////////////////////////////////////////////////////////
-// 
 //FILES FOR:
 // 
 // Mini Group Project I - Employee reviews of their employers - IPEN 5810
@@ -19,7 +19,7 @@ repository for ipen5810
 This project aims to analyze a dataset of employee reviews of employers on Glassdoor, using natural language processing (NLP) and machine learning methods to preprocess text data, classify topics in reviews, and explore the correlation between these topics and income-related indicators. sex.
 
 * Installation guide
-To run the code for this project, you need to install the following Python libraries: numpy; pandas; sklearn; matplotlib; seaborn; htk; gensim
+To run the code for this project, you need to install the following Python libraries: numpy; pandas; sklearn; matplotlib; seaborn; nltk; gensim
 Missing libraries can be installed using the pip install command.
 
 * How to run the code
@@ -51,7 +51,11 @@ Salary issues are the source of dissatisfaction among most employees;
 Most employees want their employer to improve the company's overall strength and development opportunities;
 Engineers and sales pay more attention to work-life balance (WLB) issues
 Employees in the United Kingdom are more concerned about WLB issues;
-Sales, Finance and Engineers are more likely to make extreme comments about their jobs
+Sales, Finance and Engineers are more likely to make extreme comments about their jobs;
+The topics covered can be leveraged to predict the duration of employment and positively impact compensation rates and work-life balance.
+
+
+
 
 
 
