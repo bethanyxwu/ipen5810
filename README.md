@@ -25,9 +25,9 @@ Missing libraries can be installed using the pip install command.
 
 * How to run the code:
   
-Clone the repository locally.
-Make sure all dependencies are installed.
-Run cells in Jupyter Notebook.
+  Clone the repository locally.
+  Make sure all dependencies are installed.
+  Run cells in Jupyter Notebook.
 
 * File structure and description:
 
